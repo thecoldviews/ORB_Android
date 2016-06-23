@@ -1,0 +1,44 @@
+The target system is: Android - 1 - armv7-a
+The host system is: Linux - 4.2.0-36-generic - x86_64
+Determining if the include file complex.h exists passed with the following output:
+Change Dir: /home/sarthak/Desktop/ORB-SLAM-Android/slam_ext/build.android/suitesparse/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_6ba10/fast"
+/usr/bin/make -f CMakeFiles/cmTC_6ba10.dir/build.make CMakeFiles/cmTC_6ba10.dir/build
+make[1]: Entering directory `/home/sarthak/Desktop/ORB-SLAM-Android/slam_ext/build.android/suitesparse/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6ba10.dir/CheckIncludeFile.c.o
+/opt/android/ndk/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-gcc  -DANDROID -isystem /opt/android/ndk/android-ndk-r10e/platforms/android-19/arch-arm/usr/include -isystem /opt/android/ndk/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /opt/android/ndk/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include -isystem /opt/android/ndk/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -fexceptions -Wno-psabi --sysroot=/opt/android/ndk/android-ndk-r10e/platforms/android-19/arch-arm -funwind-tables -finline-limit=64 -fsigned-char -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=neon -fdata-sections -ffunction-sections -Wa,--noexecstack  -O3 -mtune=generic-ARMv7-a -mfpu=neon  -fPIE   -o CMakeFiles/cmTC_6ba10.dir/CheckIncludeFile.c.o   -c /home/sarthak/Desktop/ORB-SLAM-Android/slam_ext/build.android/suitesparse/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_6ba10
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6ba10.dir/link.txt --verbose=1
+/opt/android/ndk/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-gcc  -fexceptions -Wno-psabi --sysroot=/opt/android/ndk/android-ndk-r10e/platforms/android-19/arch-arm -funwind-tables -finline-limit=64 -fsigned-char -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=neon -fdata-sections -ffunction-sections -Wa,--noexecstack  -O3 -mtune=generic-ARMv7-a -mfpu=neon    -Wl,--fix-cortex-a8 -Wl,--no-undefined -Wl,--gc-sections -Wl,-z,noexecstack -Wl,-z,relro -Wl,-z,now -Wl,-z,nocopyreloc -fPIE -pie  CMakeFiles/cmTC_6ba10.dir/CheckIncludeFile.c.o -o cmTC_6ba10  -L/libs/armeabi-v7a  -L/opt/android/ndk/android-ndk-r10e/platforms/android-19/arch-arm/usr/lib   "/opt/android/ndk/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/libsupc++.a"
+make[1]: Leaving directory `/home/sarthak/Desktop/ORB-SLAM-Android/slam_ext/build.android/suitesparse/build/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file complex.h exists passed with the following output:
+Change Dir: /home/sarthak/Desktop/ORB-SLAM-Android/slam_ext/build.android/suitesparse/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_171c4/fast"
+/usr/bin/make -f CMakeFiles/cmTC_171c4.dir/build.make CMakeFiles/cmTC_171c4.dir/build
+make[1]: Entering directory `/home/sarthak/Desktop/ORB-SLAM-Android/slam_ext/build.android/suitesparse/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_171c4.dir/CheckIncludeFile.c.o
+/opt/android/ndk/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-gcc  -DANDROID -isystem /opt/android/ndk/android-ndk-r10e/platforms/android-19/arch-arm/usr/include -isystem /opt/android/ndk/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /opt/android/ndk/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include -isystem /opt/android/ndk/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -fexceptions -Wno-psabi --sysroot=/opt/android/ndk/android-ndk-r10e/platforms/android-19/arch-arm -funwind-tables -finline-limit=64 -fsigned-char -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=neon -fdata-sections -ffunction-sections -Wa,--noexecstack  -O3 -mtune=generic-ARMv7-a -mfpu=neon  -fPIE   -o CMakeFiles/cmTC_171c4.dir/CheckIncludeFile.c.o   -c /home/sarthak/Desktop/ORB-SLAM-Android/slam_ext/build.android/suitesparse/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_171c4
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_171c4.dir/link.txt --verbose=1
+/opt/android/ndk/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-gcc  -fexceptions -Wno-psabi --sysroot=/opt/android/ndk/android-ndk-r10e/platforms/android-19/arch-arm -funwind-tables -finline-limit=64 -fsigned-char -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=neon -fdata-sections -ffunction-sections -Wa,--noexecstack  -O3 -mtune=generic-ARMv7-a -mfpu=neon    -Wl,--fix-cortex-a8 -Wl,--no-undefined -Wl,--gc-sections -Wl,-z,noexecstack -Wl,-z,relro -Wl,-z,now -Wl,-z,nocopyreloc -fPIE -pie  CMakeFiles/cmTC_171c4.dir/CheckIncludeFile.c.o -o cmTC_171c4  -L/libs/armeabi-v7a  -L/opt/android/ndk/android-ndk-r10e/platforms/android-19/arch-arm/usr/lib   "/opt/android/ndk/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/libsupc++.a"
+make[1]: Leaving directory `/home/sarthak/Desktop/ORB-SLAM-Android/slam_ext/build.android/suitesparse/build/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file complex.h exists passed with the following output:
+Change Dir: /home/sarthak/Desktop/ORB-SLAM-Android/slam_ext/build.android/suitesparse/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_121b4/fast"
+/usr/bin/make -f CMakeFiles/cmTC_121b4.dir/build.make CMakeFiles/cmTC_121b4.dir/build
+make[1]: Entering directory `/home/sarthak/Desktop/ORB-SLAM-Android/slam_ext/build.android/suitesparse/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_121b4.dir/CheckIncludeFile.c.o
+/opt/android/ndk/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-gcc  -DANDROID -isystem /opt/android/ndk/android-ndk-r10e/platforms/android-19/arch-arm/usr/include -isystem /opt/android/ndk/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /opt/android/ndk/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include -isystem /opt/android/ndk/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -fexceptions -Wno-psabi --sysroot=/opt/android/ndk/android-ndk-r10e/platforms/android-19/arch-arm -funwind-tables -finline-limit=64 -fsigned-char -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=neon -fdata-sections -ffunction-sections -Wa,--noexecstack  -O3 -mtune=generic-ARMv7-a -mfpu=neon  -fPIE   -o CMakeFiles/cmTC_121b4.dir/CheckIncludeFile.c.o   -c /home/sarthak/Desktop/ORB-SLAM-Android/slam_ext/build.android/suitesparse/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_121b4
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_121b4.dir/link.txt --verbose=1
+/opt/android/ndk/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-gcc  -fexceptions -Wno-psabi --sysroot=/opt/android/ndk/android-ndk-r10e/platforms/android-19/arch-arm -funwind-tables -finline-limit=64 -fsigned-char -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=neon -fdata-sections -ffunction-sections -Wa,--noexecstack  -O3 -mtune=generic-ARMv7-a -mfpu=neon    -Wl,--fix-cortex-a8 -Wl,--no-undefined -Wl,--gc-sections -Wl,-z,noexecstack -Wl,-z,relro -Wl,-z,now -Wl,-z,nocopyreloc -fPIE -pie  CMakeFiles/cmTC_121b4.dir/CheckIncludeFile.c.o -o cmTC_121b4  -L/libs/armeabi-v7a  -L/opt/android/ndk/android-ndk-r10e/platforms/android-19/arch-arm/usr/lib   "/opt/android/ndk/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/libsupc++.a"
+make[1]: Leaving directory `/home/sarthak/Desktop/ORB-SLAM-Android/slam_ext/build.android/suitesparse/build/CMakeFiles/CMakeTmp'
+
+

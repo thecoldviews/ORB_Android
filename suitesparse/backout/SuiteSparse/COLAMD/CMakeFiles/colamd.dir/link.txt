@@ -1,0 +1,2 @@
+/opt/android/ndk/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-gcc-ar qc ../../lib/libcolamd.a  CMakeFiles/colamd.dir/SourceWrappers/colamd.c.o CMakeFiles/colamd.dir/SourceWrappers/colamd_global.c.o CMakeFiles/colamd.dir/SourceWrappers/colamd_l.o.c.o
+/opt/android/ndk/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/bin/arm-linux-androideabi-ranlib ../../lib/libcolamd.a

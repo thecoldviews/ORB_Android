@@ -1,0 +1,4 @@
+/home/sarthak/Desktop/ORB-SLAM-Android/slam_ext/build.android/slam/build/CMakeFiles/edit_cache.dir
+/home/sarthak/Desktop/ORB-SLAM-Android/slam_ext/build.android/slam/build/CMakeFiles/rebuild_cache.dir
+/home/sarthak/Desktop/ORB-SLAM-Android/slam_ext/build.android/slam/build/CMakeFiles/ORB_SLAM.dir
+/home/sarthak/Desktop/ORB-SLAM-Android/slam_ext/build.android/slam/build/CMakeFiles/DBoW2.dir

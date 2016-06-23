@@ -1,6 +1,6 @@
 # ORB_Android
 
-This is a repository for a complete porting and setup of ORB SLAM on Android. 
+This is a repository for a complete porting and setup of ORB SLAM[1] on Android based on [2]. 
 
  - It includes all the compiled libraries for *android arm7*. So you can just download and 
  - It also includes build scripts, which build the source again in case you want to make changes. 
@@ -27,5 +27,10 @@ This repository is still under development. The following will be added soon:
 
 ## References
 
- - [ORB SLAM Official Repository](https://github.com/raulmur/ORB_SLAM)
+ - [1][ORB SLAM Official Repository](https://github.com/raulmur/ORB_SLAM)
+ - [2][ORB SLAM for Android by CreativeCimmons](https://github.com/CreativeCimmons/ORB-SLAM-Android-app)
+
+## Licence
+
+As it extends the **GPL V3** based ORB SLAM. This code reserves the same licence.
 

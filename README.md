@@ -35,5 +35,5 @@ This repository is still under development. The following will be added soon:
 
 ## Licence
 
-As it extends the **GPL V3** based ORB SLAM. This code reserves the same licence.
+As it extends the **GPL V3** based ORB SLAM, this code reserves the same licence.
 

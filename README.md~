@@ -27,8 +27,9 @@ This repository is still under development. The following will be added soon:
 
 ## References
 
- - [1][ORB SLAM Official Repository](https://github.com/raulmur/ORB_SLAM)
- - [2][ORB SLAM for Android by CreativeCimmons](https://github.com/CreativeCimmons/ORB-SLAM-Android-app)
+ [1][ORB SLAM Official Repository](https://github.com/raulmur/ORB_SLAM)
+
+ [2][ORB SLAM for Android by CreativeCimmons](https://github.com/CreativeCimmons/ORB-SLAM-Android-app)
 
 ## Licence
 

@@ -25,4 +25,7 @@ This repository is still under development. The following will be added soon:
  - Application Code
  - Shell Scripts
 
+## References
+
+ - [ORB SLAM Official Repository](https://github.com/raulmur/ORB_SLAM)
 

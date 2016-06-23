@@ -5,7 +5,7 @@ This is a repository for a complete porting and setup of ORB SLAM on Android.
  - It includes all the compiled libraries for *android arm7*. So you can just download and 
  - It also includes build scripts, which build the source again in case you want to make changes. 
 
-*Application code will be added here soon.*
+*Note: Application code will be added here soon.*
 
 ## Instructions
 
@@ -15,7 +15,7 @@ This is a repository for a complete porting and setup of ORB SLAM on Android.
 
 ## Snapshots
 
-![snapshots](./snapshot)
+![snapshots](./snapshot.jpg)
 
 
 ## Note
